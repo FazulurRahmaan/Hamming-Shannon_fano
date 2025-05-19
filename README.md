@@ -55,17 +55,16 @@ print(f"Variance is : {var}")
 ![Screenshot 2025-03-25 183643](https://github.com/user-attachments/assets/8ce4b228-ceb1-4ef2-8915-ecc8dff690f5)
 
 ## **Calculation**
-![sf op1](![image](https://github.com/user-attachments/assets/db711581-47af-4c0a-aa0d-815077900a0e)
-)
+![sf op1] ![image](https://github.com/user-attachments/assets/1fdc7019-da47-49bd-8f15-f073152747b8)
 
-![sf op2](![image](https://github.com/user-attachments/assets/06063d67-76ab-460b-9d54-74e366e739ae)
-)
 
-)
-![sf op3](![image](https://github.com/user-attachments/assets/4146d336-8181-4f1c-b98b-4be5e1e21b0e)
-)
-)
-)
+![sf op2] ![image](https://github.com/user-attachments/assets/61d317b6-31df-4e20-8d18-c7631654e8a1)
+
+
+![sf op3] ![image](https://github.com/user-attachments/assets/18706489-8e1a-4b6b-86bc-62f0fa24eef9)
+
+
+
 
 ## **Result**
 For the given probabilities 0.125,0.0625,0.25,0.0625,0.125,0.125,0.25
