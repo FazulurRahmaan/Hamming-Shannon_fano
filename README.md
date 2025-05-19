@@ -55,13 +55,15 @@ print(f"Variance is : {var}")
 ![Screenshot 2025-03-25 183643](https://github.com/user-attachments/assets/8ce4b228-ceb1-4ef2-8915-ecc8dff690f5)
 
 ## **Calculation**
-![sf op1](![P1](https://github.com/user-attachments/assets/20ca6e55-a566-47d9-8565-cfd8a8046fee)
+![sf op1](![image](https://github.com/user-attachments/assets/db711581-47af-4c0a-aa0d-815077900a0e)
 )
+
+![sf op2](![image](https://github.com/user-attachments/assets/06063d67-76ab-460b-9d54-74e366e739ae)
 )
-![sf op2](![P2](https://github.com/user-attachments/assets/8ad9422f-33f6-4bac-bbde-a524d72074eb)
 
 )
-![sf op3](![P3](https://github.com/user-attachments/assets/d38b1ff8-fba2-4a9e-9949-868350d263dc)
+![sf op3](![image](https://github.com/user-attachments/assets/4146d336-8181-4f1c-b98b-4be5e1e21b0e)
+)
 )
 )
 
